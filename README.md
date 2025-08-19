@@ -1,25 +1,21 @@
-<img src="https://github.com/SonicStreaker/SonicStreaker/blob/main/file_0000000044d4624398dac219c9b98057%20(1).png">
+<img src="https://github.com/lacklux/lacklux/blob/main/header.png">
 
 - 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently exploring Data analytics,AI,ML, Cyber security 
+- 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
 - 👯 I’m looking to collaborate on a data analysis related task
 - 🤔 I’m looking for help with work on data analysis  and web scrapping and automation job
-- 💬 Ask me about anything related to Html/python
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Sonicstreaker-c14438?style=social&logo=Gmail&logoColor=red&link=mailto: (ademolaakingbade1@gmail.com)](mailto: ademolaakingbade1@gmail.com) 
-- ⚡ Fun fact: I'm young and a passionate programmer, i tend to learn always.
+- 💬 Ask me about anything related to javascript/python
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-SonicStreaker-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ademolaakingbade1@gmail.com)](mailto:ademolaakingbade1@gmail.com) 
+- ⚡ Fun fact: am young and a passionate programmer, i tend to learn always.
 
 <p align="center">
-  <a href="https://x.com/AdemolaAki50778" target="_blank">
+  <a href="https://twitter.com/AdemolAki50778" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/akingbade-ademola-7422aa364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  
+  <a href="https://www.facebook.com/azeez.olayiwola.182" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
- 
-  <a 
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
-  </a>
-
     
 </p>
 
