@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
 - 👯 I’m looking to collaborate on a data analysis related task
 - 🤔 I’m looking for help with work on data analysis  and web scrapping and automation job
-- 💬 Ask me about anything related to javascript/python
+- 💬 Ask me about anything related to Html/python
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-SonicStreaker-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ademolaakingbade1@gmail.com)](mailto:ademolaakingbade1@gmail.com) 
-- ⚡ Fun fact: am young and a passionate programmer, i tend to learn always.
+- ⚡ Fun fact: I'm young and a passionate programmer, i tend to learn always.
 
 <p align="center">
   <a href="https://twitter.com/AdemolAki50778" target="_blank">
@@ -20,7 +20,7 @@
 </p>
 
 
-## I can work confortable with the following technologies:
+## I can work comfortable with the following technologies:
 
 <p align="center">
   <a href="https://skillicons.dev">
