@@ -1,4 +1,4 @@
-<img src="https://github.com/SonicStreaker/SonicStreaker/blob/main/file_0000000044d4624398dac219c9b98057">
+<img src="https://github.com/SonicStreaker/SonicStreaker/blob/main/file_0000000044d4624398dac219c9b98057 (1).png">
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
